@@ -1,3 +1,4 @@
+(tested under Python 3.12.2, Linux & Windows)
 altair==5.5.0
 attrs==25.3.0
 blinker==1.9.0
